@@ -12,9 +12,11 @@ Deploy it using solidity
 
 ## QuickStart
 
+```
 git clone https://github.com/DavidRaigozaJ/foundry-simple-storge
 cd foundry-simple-storage
 forge build
+```
 
 
 
